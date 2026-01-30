@@ -36,7 +36,7 @@ This move threatens Iranian interests in the region and as seen in a statement b
 
 Given these excerpts and the focus of the Iranian geopolitical doctrine of asserting itself as a regional power in the Middle East, this newly created council is likely viewed by Iran as illegitimate and misaligned with its strategic interests (Moderate-High confidence).
 
-Considering this scenario and the historical Iranian pattern of using cyber warfare against its adversaries, member countries of the Board of Peace should expect highly targeted attacks against delegates, diplomats, ministers and other such representatives connected to the Board, as seen in previous Iranian campaigns against Western countries [3].
+Considering this scenario and the historical Iranian pattern of using cyber warfare against its adversaries, member countries of the Board of Peace should maintain vigilance against potential targeted attacks against delegates, diplomats, ministers and other such representatives connected to the Board, as seen in previous Iranian campaigns against Western countries [3].
 
 ## 3. Cyber Threat Overview
 
